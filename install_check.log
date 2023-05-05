@@ -1,0 +1,8 @@
+Install checked: 2023-05-04T23:47:17-04:00
+
+SYSTEM:	Linux LAPTOP-UD2UPGIC 5.15.90.1-microsoft-standard-WSL2 #1 SMP Fri Jan 27 02:56:13 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
+SHELL:	[/bin/bash]
+GIT:	[/usr/bin/git] git version 2.34.1
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 8.2 (2019 Dec 12, compiled Apr 03 2023 07:45:49)
+CURL:	[/usr/bin/curl] curl 7.81.0 (x86_64-pc-linux-gnu) libcurl/7.81.0 OpenSSL/3.0.2 zlib/1.2.11 brotli/1.0.9 zstd/1.4.8 libidn2/2.3.2 libpsl/0.21.0 (+libidn2/2.3.2) libssh/0.9.6/openssl/zlib nghttp2/1.43.0 librtmp/2.3 OpenLDAP/2.5.14
+NODE:	[/root/.nvm/versions/node/v18.16.0/bin/node] v18.16.0
